@@ -4,7 +4,7 @@ const DELAY = 0;
 let state = 0;
 let fontSize = 0;
 let sizeDifference = 2;;
-let person = ["지원", "유찬", "은수", "은교", "인가", "주안"];
+let person = ["지원", "유찬", "은수", "은교", "인가", "동화", "주안"];
 let personIndex = 0;
 
 setInterval(function() {
